@@ -1,0 +1,7 @@
+HTTP protokolü ile url mantýðýnda 2 ya da daha fazla uzak cihaz arasýndaki iletiþimi saðlayan bir haberleþme yöntemidir.
+XML olarak veri gönderir ve veri alýr.
+
+
+PostMan
+NeganTheSavior
+pokron333
